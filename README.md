@@ -1,4 +1,4 @@
-# Git & GitHub Collaboration Course
+# Git Workshop: Mastering the Command Line Interface (CLI)
 Fix #1 added -- You can safely remove this line --
 Fix #2: Very important fix added -- You can safely remove this line --
 Modification
